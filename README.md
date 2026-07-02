@@ -1,20 +1,53 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# 🇮🇳 Indian Loan Default Prediction System
 
-# Run and deploy your AI Studio app
+A beginner-friendly machine learning web application that predicts whether a loan applicant is likely to **repay** or **default** based on financial and personal details. The project is designed using an Indian banking scenario with a clean, responsive, and minimal user interface.
 
-This contains everything you need to run your app locally.
+## 🚀 Features
 
-View your app in AI Studio: https://ai.studio/apps/6bd58e65-a111-46d2-9096-9cddc95ba04e
+* Loan Default Prediction
+* Interactive Dashboard
+* Dataset Overview
+* Model Performance Metrics
+* Responsive & Minimal UI
+* Download Prediction Report
 
-## Run Locally
+## 🛠️ Tech Stack
 
-**Prerequisites:**  Node.js
+* Python
+* Flask
+* HTML, CSS, JavaScript
+* Bootstrap 5
+* Pandas
+* NumPy
+* Scikit-learn
+* Chart.js
 
+## 🤖 Machine Learning
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+* Logistic Regression
+* Decision Tree
+* Random Forest (Best Model)
+
+## 📂 Dataset
+
+Synthetic Indian banking loan dataset with customer, income, loan, and credit details.
+
+## ▶️ Run the Project
+
+```bash
+pip install -r requirements.txt
+python app.py
+```
+
+Open: `http://127.0.0.1:5000`
+
+## 📌 Future Enhancements
+
+* Live Banking APIs
+* Explainable AI
+* Advanced Analytics
+* Cloud Deployment
+
+## 👨‍💻 Author
+
+**Your Name**
