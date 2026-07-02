@@ -1,0 +1,6 @@
+{
+  "name": "Indian Loan Default Prediction System",
+  "description": "An interactive web application that predicts loan default risk using machine learning based on Indian banking scenarios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
